@@ -1,6 +1,7 @@
 #BOSS FIGHT
 from math import *
 
+# Bonus function!
 def Discriminant(a,b,c):
 	d = pow(b,2) - 4*a*c
 	if d < 0:
